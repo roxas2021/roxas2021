@@ -2,7 +2,7 @@
 <h2 align="left">Hi 👋</h2>
 <h3 align="left">Call me Fredz, A passionate frontend and backend developer from Philippines</h3>
 
-- 👨‍💻 All of my projects are available at [roxas2021.github.io](roxas2021.github.io)
+- 👨‍💻 All of my projects are available at [roxas2021.github.io](https://roxas2021.github.io)
 
 - 📫 How to reach me **roxasfredinz@gmail.com**
 
