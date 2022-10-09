@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/84547377/194738979-79659949-8ea0-48b5-b446-f47919387277.jpg)](https://roxas2021.io)
-<h1 align="center">Hi 👋, I'm Ferdinand Roxas</h1>
+<h2 align="left">Hi 👋</h2>
 <h3 align="center">A passionate frontend and backend developer from Philippines</h3>
 
 - 👨‍💻 All of my projects are available at [roxas2021.github.io](roxas2021.github.io)
